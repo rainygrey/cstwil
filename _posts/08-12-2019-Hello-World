@@ -1,0 +1,17 @@
+---
+layout: post
+title: Damn it, World
+---
+
+College dropout, still in love with linguistics and neuroscience; English teacher, and martial arts enthusiast; Led an obscure career and that's kind of a bummer.
+
+Earlier this year, I decided to pursue knowledge in computer science and practice in programming. I will try to explain the reason behind it later in upcoming posts.
+In the meantime, this July, I've begun studying programming with Code States, a bootcamp based in Korea, which has been serving as a nth leg of my journey.
+
+```
+String str = "And it's been hard.";
+System.out.printIn(str);
+
+```
+
+I'll be posting a couple logs every week to document and review what I learned along the way.
