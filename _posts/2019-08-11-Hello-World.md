@@ -8,7 +8,7 @@ In the meantime, this July, I've begun learning JavaScript with Code States, a b
 
 ```
 String str = "And it's been hard!";
-System.out.printIn(str);
+Return str;
 
 ```
 
