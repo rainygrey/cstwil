@@ -8,7 +8,7 @@ In the meantime, this July, I've begun learning JavaScript with Code States, a b
 
 ```JavaScript
 String str = "And it's been hard!";
-Print str;
+Return str;
 ```
 
 I'll be posting a couple logs every week to document and review what I learned along the way.
